@@ -1,0 +1,8 @@
+error.log
+error.log.1
+out/**
+ijse.dump
+ijse.sql
+Application Architecture + JPA.iml
+.idea/**
+test/**
